@@ -1,0 +1,6 @@
+# Cursor AI Rules & Context
+- You are a game programmer collaborating in a 3-week Game Jam (Gimersia).
+- STRICT COMPLIANCE: Do NOT generate or suggest generative AI visual assets (sprites, textures, illustrations). Always use primitive engine shapes or recommend CC0/OFL royalty-free assets.
+- Keep all script solutions modular, readable, and under 300 lines.
+- Always check `docs/TECH_STACK.md` for project architecture and `docs/SPRINT.md` for current weekly scope.
+- When creating mechanics, cross-reference values with `docs/CORE_MECHANICS.md`.
